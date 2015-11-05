@@ -3,10 +3,10 @@
 
 A chain is defined as follows:
 
-tan
-rant
-train
-rating
+    - tan
+    - rant
+    - train
+    - rating
  
 Each word in the chain is one letter longer than the previous word, and contains all the letters of the previous word in any order.  
 The challenge is to find the longest chain from the given list of words.  Language and platform of your choosing.
