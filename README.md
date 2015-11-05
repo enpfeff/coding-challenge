@@ -1,6 +1,5 @@
 #Coding Challenge
 ##Prompt
-
 A chain is defined as follows:
 
     - tan
@@ -23,3 +22,12 @@ A chain is defined as follows:
     - if the edges list is > 0 find the maxChain of each of the edges and add 1 to it, this is the current words maxChain 
     - because the array is sorted shortest to longest maxChain will be defined for all words in the edge list
     - else the maxChain = 0
+    
+##Running
+###Pre-reqs
++ nodeJS
++ npm
+###Run
+1.  git clone
+2.  npm install
+3.  node start.js
