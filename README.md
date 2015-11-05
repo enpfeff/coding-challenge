@@ -26,7 +26,7 @@ A chain is defined as follows:
 ##Running
 ###Pre-reqs
 + nodeJS
-+ npm
+
 ###Run
 1.  git clone
 2.  npm install
